@@ -1,0 +1,4 @@
+Student ID: 10058917, Mark: 20
+Student ID: 10005892, Mark: 30
+Student ID: 1021321, Mark: 40
+Average: 30 SD: 10 
